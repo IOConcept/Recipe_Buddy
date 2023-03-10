@@ -1,28 +1,21 @@
 # Recipe Buddy
-Recipe Buddy is a simple command-line interface tool for managing recipes. With Recipe Buddy, you can:
 
-View a recipe
-Add a new recipe
-Display all recipes
-Export recipes to a text file
-Getting Started
-To get started with Recipe Buddy, you'll need to have Python 3.x installed on your computer. Once you have Python installed, you can download the main.py file and run it from the command line.
+Recipe Buddy is a simple command-line recipe management application that allows users to view, add, and export recipes. 
 
-Usage
-View a recipe
-To view a recipe, select option 1 from the main menu and enter the name of the recipe you want to view.
+## Features
 
-Add a new recipe
-To add a new recipe, select option 2 from the main menu and follow the prompts to enter the name of the recipe, the ingredients, and the steps.
+- View recipe: Users can view a recipe by entering the name of the recipe they want to view. 
+- Add a recipe: Users can add a new recipe by entering the name of the recipe, its ingredients, and steps.
+- Submit recipes: Users can export all recipes to a text file. 
+- Display all recipes: Users can see a list of all recipes they have added.
+- Quit: Users can exit the application at any time.
 
-Display all recipes
-To display all recipes, select option 3 from the main menu.
+## Requirements
 
-Export recipes
-To export all recipes to a text file, select option 4 from the main menu. The exported file will be named recipes.txt and will be saved in the same directory as the main.py file.
+- Python 3
 
-Contributing
-If you'd like to contribute to Recipe Buddy, feel free to submit a pull request with your changes.
+## Usage
 
-License
-Recipe Buddy is released under the MIT License. See LICENSE for more information.
+To run Recipe Buddy, simply navigate to the directory containing `main.py` in your terminal and run the following command:
+
+
