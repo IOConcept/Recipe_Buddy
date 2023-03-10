@@ -1,0 +1,15 @@
+The updated version of main.py with the changes is correct. Here's an updated changelog:
+
+Version 1: Initial version of the code with basic functionality.
+Version 2: Added the ability to remove a recipe.
+Version 3: Added error handling for file not found and JSON decoding errors when loading recipes.
+Version 4: Added the ability to export recipes to a text file.
+Version 5: Added the ability to display a single recipe by name.
+Version 6: Added error handling for file not found when exporting recipes.
+Version 7: Added a check to ensure that recipe names are unique when adding a recipe.
+Version 8: Added error handling for file not found when removing a recipe.
+Version 9: Changed the format of the recipes file to use JSON.
+Version 10: Changed the way recipes are loaded and saved to use JSON.
+Version 10.5: Added the ability to display all recipe names.
+Version 11: Added the ability to display all recipes without their details.
+Version 12 - Alpha 1: Added the ability to view all recipes when no recipe name is entered and added error handling for invalid JSON when loading recipes.
