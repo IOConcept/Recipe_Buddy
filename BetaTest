@@ -1,0 +1,112 @@
+# Version 17 Beta 1
+
+Menu:
+1. View Recipe
+2. Add a recipe
+3. Submit Recipes
+4. Display all recipes
+5. Edit a recipe
+6. Quit
+Enter your choice: 
+Potato Curry
+Name: Potato Curry
+Ingredients:
+- Potatoes
+- Onions
+- Tomato
+- Spices
+Steps:
+- Boil potatoes
+- Fry onions and tomato
+- Add spices
+- Add boiled potatoes and mix
+Enter your choice: 
+View Recipe
+
+Enter the name of the recipe: Potato Curry
+Name: Potato Curry
+Ingredients:
+- Potatoes
+- Onions
+- Tomato
+- Spices
+Steps:
+- Boil potatoes
+- Fry onions and tomato
+- Add spices
+- Add boiled potatoes and mix
+Enter your choice: 
+
+Enter your choice: 
+Add a recipe
+Enter the name of the recipe: Chicken Stir Fry
+Enter an ingredient (leave blank to stop adding): Chicken
+Enter an ingredient (leave blank to stop adding): Broccoli
+Enter an ingredient (leave blank to stop adding): Carrots
+Enter an ingredient (leave blank to stop adding): Soy sauce
+Enter an ingredient (leave blank to stop adding): 
+Enter a step (leave blank to stop adding): Fry chicken
+Enter a step (leave blank to stop adding): Add vegetables and soy sauce
+Enter a step (leave blank to stop adding): Cook until tender
+Enter a step (leave blank to stop adding): 
+Enter your choice: 
+View Recipe
+
+Enter the name of the recipe: Chicken Stir Fry
+Name: Chicken Stir Fry
+Ingredients:
+- Chicken
+- Broccoli
+- Carrots
+- Soy sauce
+Steps:
+- Fry chicken
+- Add vegetables and soy sauce
+- Cook until tender
+Enter your choice: 
+
+Enter your choice: 
+Submit Recipes
+Written to recipes.txt
+Enter your choice: 
+Display all recipes
+Potato Curry
+Chicken Stir Fry
+Enter your choice: 
+
+Enter your choice: 
+Edit a recipe
+Enter the name of the recipe to edit: Chicken Stir Fry
+Enter an ingredient (leave blank to stop adding): Zucchini
+Enter an ingredient (leave blank to stop adding): 
+Enter a step (leave blank to stop adding): Add zucchini
+Enter a step (leave blank to stop adding): 
+Enter your choice: 
+View Recipe
+
+Enter the name of the recipe: Chicken Stir Fry
+Name: Chicken Stir Fry
+Ingredients:
+- Chicken
+- Broccoli
+- Carrots
+- Soy sauce
+- Zucchini
+Steps:
+- Fry chicken
+- Add vegetables and soy sauce
+- Cook until tender
+- Add zucchini
+Enter your choice: 
+
+Enter your choice: 
+Quit
+In this example, I started by selecting "View Recipe" and then entered the name of an existing recipe ("Potato Curry"). The recipe details were displayed, and then I hit enter to go back to the main menu.
+
+Next, I selected "Add a recipe" and entered the details for a new recipe ("Chicken Stir Fry"). After submitting the recipe, I went back to the main menu and selected "View Recipe" again to verify that the new recipe was added.
+
+I then selected "Submit Recipes" to export the recipe data to a file, followed by "Display all recipes" to view all the available recipes.
+
+I then selected "Edit a recipe" and updated the details of the "Chicken Stir Fry" recipe by adding a new ingredient and step. After editing, I went back to the main menu and selected "View Recipe" again to verify that the recipe was updated.
+
+Finally, I selected "Quit" to exit the program.
