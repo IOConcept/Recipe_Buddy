@@ -1,5 +1,4 @@
 import json
-import os
 
 
 def load_recipes():
@@ -40,7 +39,7 @@ def view_recipe():
         if recipe.get("name") == name:
             display_recipe(recipe)
             return
-    print("Recipe not found.")
+    print("That's not in my belly")
 
 
 def add_recipe():
@@ -95,7 +94,7 @@ def main():
         print("Menu:")
         print("1. View Recipe")
         print("2. Add a recipe")
-        print("3. Submit Recipes")
+        print("3. Export Recipes")
         print("4. Display all recipes")
         print("5. Quit")
 
@@ -116,5 +115,5 @@ def main():
 
 
 if __name__ == "__main__":
-    print("# Version 15 Beta 1")
+    print("# Version 20 Beta 3")
     main()
