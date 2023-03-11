@@ -1,0 +1,11 @@
+Here are some user-friendly instructions for using Recipe Buddy:
+
+View Recipe: Select this option to view a recipe that you have previously added to Recipe Buddy. When prompted, enter the name of the recipe you want to view. If the recipe is found, Recipe Buddy will display it for you.
+
+Add a recipe: Select this option to add a new recipe to Recipe Buddy. You will be prompted to enter the name of the recipe, as well as its ingredients and steps. Follow the prompts to add each piece of information. Once you have added a recipe, it will be saved to Recipe Buddy for future viewing.
+
+Submit Recipes: Select this option to export all of your saved recipes to a text file. Recipe Buddy will save your recipes to a file named "recipes.txt" in the same directory as the program.
+
+Display all recipes: Select this option to display a list of all the recipes you have saved in Recipe Buddy. Recipe Buddy will display the names of each recipe for you.
+
+Quit: Select this option to exit the program.
