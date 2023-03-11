@@ -1,23 +1,24 @@
-# Version 11.2 - Alpha 1
-# Created by Eric D. McCullar and ChatGPT
-
 import json
+import os
 
 
 def load_recipes():
     try:
         with open("recipes.json", "r") as f:
-            return json.load(f)
+            recipes = json.load(f)
+            if not recipes["recipes"]:
+                print("No recipes in my belly")
+            return recipes
     except (FileNotFoundError, json.JSONDecodeError):
         with open("recipes.json", "w") as f:
             recipes = {"recipes": []}
-            json.dump(recipes, f)
+            json.dump(recipes, f, indent=4)
             return recipes
 
 
 def save_recipes(recipes):
     with open("recipes.json", "w") as f:
-        json.dump(recipes, f)
+        json.dump(recipes, f, indent=4)
 
 
 def display_recipe(recipe):
@@ -59,16 +60,23 @@ def add_recipe():
     recipes = load_recipes()
     recipes["recipes"].append({"name": name, "ingredients": ingredients, "steps": steps})
     save_recipes(recipes)
+    print("1 recipe added to my belly")
 
 
 def display_all_recipes():
     recipes = load_recipes()
+    if not recipes["recipes"]:
+        print("No recipes in my belly")
+        return
     for recipe in recipes["recipes"]:
         print(recipe.get("name"))
 
 
 def export_recipes():
     recipes = load_recipes()
+    if not recipes["recipes"]:
+        print("No recipes in my belly")
+        return
     with open("recipes.txt", "w") as f:
         for recipe in recipes["recipes"]:
             f.write(f"Name: {recipe.get('name')}\n")
@@ -79,7 +87,7 @@ def export_recipes():
             for step in recipe.get("steps"):
                 f.write(f"- {step}\n")
             f.write("\n")
-    print("Written to Recipe")
+    print("Recipes exported successfully")
 
 
 def main():
@@ -87,7 +95,7 @@ def main():
         print("Menu:")
         print("1. View Recipe")
         print("2. Add a recipe")
-        print("3. Export recipes")
+        print("3. Submit Recipes")
         print("4. Display all recipes")
         print("5. Quit")
 
@@ -108,5 +116,5 @@ def main():
 
 
 if __name__ == "__main__":
-    print("Version 11.2 - Alpha 1")
+    print("# Version 15 Beta 1")
     main()
