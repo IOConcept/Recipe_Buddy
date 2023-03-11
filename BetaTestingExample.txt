@@ -1,0 +1,78 @@
+# Version 15.2 Beta 1
+
+Menu:
+1. View Recipe
+2. Add a recipe
+3. Submit Recipes
+4. Display all recipes
+5. Quit
+Enter your choice: 2
+Enter the name of the recipe: Spaghetti Bolognese
+Enter an ingredient (leave blank to stop adding): Ground beef
+Enter an ingredient (leave blank to stop adding): Spaghetti
+Enter an ingredient (leave blank to stop adding): Tomato sauce
+Enter an ingredient (leave blank to stop adding): Onion
+Enter an ingredient (leave blank to stop adding): Garlic
+Enter an ingredient (leave blank to stop adding): Salt
+Enter an ingredient (leave blank to stop adding): Pepper
+Enter an ingredient (leave blank to stop adding): 
+Enter a step (leave blank to stop adding): Brown the ground beef in a large pan.
+Enter a step (leave blank to stop adding): Add the onion and garlic and cook until soft.
+Enter a step (leave blank to stop adding): Add the tomato sauce and season with salt and pepper.
+Enter a step (leave blank to stop adding): Cook the spaghetti according to package instructions and serve with the sauce.
+Enter a step (leave blank to stop adding): 
+Enter the name of the recipe: Chicken Alfredo
+Enter an ingredient (leave blank to stop adding): Chicken breast
+Enter an ingredient (leave blank to stop adding): Fettuccine
+Enter an ingredient (leave blank to stop adding): Heavy cream
+Enter an ingredient (leave blank to stop adding): Parmesan cheese
+Enter an ingredient (leave blank to stop adding): Salt
+Enter an ingredient (leave blank to stop adding): Pepper
+Enter an ingredient (leave blank to stop adding): 
+Enter a step (leave blank to stop adding): Cook the fettuccine according to package instructions.
+Enter a step (leave blank to stop adding): Cut the chicken into small pieces and cook in a large pan until browned.
+Enter a step (leave blank to stop adding): Add the heavy cream and bring to a simmer.
+Enter a step (leave blank to stop adding): Add the Parmesan cheese and season with salt and pepper.
+Enter a step (leave blank to stop adding): Serve the sauce over the fettuccine.
+Enter a step (leave blank to stop adding): 
+Enter the name of the recipe: 
+Enter the name of the recipe: 
+Enter the name of the recipe: 
+Menu:
+1. View Recipe
+2. Add a recipe
+3. Submit Recipes
+4. Display all recipes
+5. Quit
+Enter your choice: 4
+Spaghetti Bolognese
+Chicken Alfredo
+Menu:
+1. View Recipe
+2. Add a recipe
+3. Submit Recipes
+4. Display all recipes
+5. Quit
+Enter your choice: 1
+Enter the name of the recipe: Spaghetti Bolognese
+Name: Spaghetti Bolognese
+Ingredients:
+- Ground beef
+- Spaghetti
+- Tomato sauce
+- Onion
+- Garlic
+- Salt
+- Pepper
+Steps:
+- Brown the ground beef in a large pan.
+- Add the onion and garlic and cook until soft.
+- Add the tomato sauce and season with salt and pepper.
+- Cook the spaghetti according to package instructions and serve with the sauce.
+Menu:
+1. View Recipe
+2. Add a recipe
+3. Submit Recipes
+4. Display all recipes
+5. Quit
+Enter your choice: 5
