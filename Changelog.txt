@@ -1,0 +1,64 @@
+# Recipe Buddy Changelog
+
+## Version 1.0
+- Initial release of Recipe Buddy
+
+## Version 2.0
+- Added option to view a recipe
+- Added option to add a recipe
+- Added option to display all recipes
+- Added option to quit the program
+
+## Version 3.0
+- Added option to export all recipes to a text file
+- Added error handling for missing recipe file
+
+## Version 4.0
+- Added option to load recipes from a JSON file
+- Added error handling for invalid JSON format
+
+## Version 5.0
+- Added ability to delete recipes
+- Added confirmation message before deleting a recipe
+- Fixed bug where empty files were created
+
+## Version 6.0
+- Added error handling for missing or invalid recipe files
+
+## Version 7.0
+- Added support for recipe file backup
+
+## Version 8.0
+- Added option to import recipes from a JSON file
+
+## Version 9.0
+- Added ability to edit a recipe
+
+## Version 10.0
+- Added error handling for invalid user input
+
+## Version 11.0
+- Added support for recipe file compression
+
+## Version 12.0
+- Improved error handling for file operations
+
+## Version 12.5
+- Added ability to export recipes to JSON file
+- Improved recipe file formatting
+
+## Version 13.0
+- Added user notification for adding a recipe
+- Improved error handling for displaying all recipes
+
+## Version 14.0
+- Changed option 3 to "Submit Recipes"
+- Added support for redundant file operations
+
+## Version 15.0
+- Improved user interface
+- Improved error handling for user input
+
+## Version 15.1
+- Added automatic redirect to add a new recipe when entering an invalid recipe name or pressing enter on select option menu
+
