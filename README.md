@@ -1,21 +1,39 @@
-# Recipe Buddy
+# Recipe Buddies - Version 18 Beta 2
 
-Recipe Buddy is a simple command-line recipe management application that allows users to view, add, and export recipes. 
+Recipe Buddies is a free online recipe management tool designed to help users organize and access their favorite recipes.
 
 ## Features
 
-- View recipe: Users can view a recipe by entering the name of the recipe they want to view. 
-- Add a recipe: Users can add a new recipe by entering the name of the recipe, its ingredients, and steps.
-- Submit recipes: Users can export all recipes to a text file. 
-- Display all recipes: Users can see a list of all recipes they have added.
-- Quit: Users can exit the application at any time.
+- View a recipe
+- Add a recipe
+- Submit recipes
+- Display all recipes
+- Edit a recipe
 
-## Requirements
+## Installation
 
-- Python 3
+To use Recipe Buddies, simply download the source code and run the main.py file.
 
 ## Usage
 
-To run Recipe Buddy, simply navigate to the directory containing `main.py` in your terminal and run the following command:
+1. View Recipe - Enter the name of a recipe to view its ingredients and steps.
+2. Add a Recipe - Enter the name, ingredients, and steps for a new recipe.
+3. Submit Recipes - Export all recipes to a text file.
+4. Display All Recipes - View a list of all available recipes.
+5. Edit a Recipe - Update the ingredients and steps for an existing recipe.
+6. Quit - Exit the program.
 
+## Contributing
 
+Contributions to Recipe Buddies are welcome! Please fork the repository and submit a pull request with your changes.
+
+## Version History
+
+- Version 18 Beta 2: Added ability to submit recipes.
+- Version 18 Beta 1: Improved error handling and user interface.
+- Version 17 Beta 2: Fixed bug preventing recipes from being displayed.
+- Version 17 Beta 1: Initial release.
+
+## License
+
+Recipe Buddies is released under the MIT License. See the LICENSE file for details.
