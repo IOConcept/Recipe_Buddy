@@ -10,7 +10,7 @@ Usage
 To use Recipe Buddy, open your terminal or command prompt and navigate to the directory where you saved the Recipe Buddy code. Then, run the following command:
 
 Copy code
-python recipe_buddy.py
+main.py
 This will start Recipe Buddy, and you will be prompted with a menu of options. From here, you can choose to view a recipe, add a recipe, display all recipes, or exit the application.
 
 View a Recipe
