@@ -1,0 +1,22 @@
+Here's an updated summary of the program as it stands:
+
+Recipe Manager
+This is a recipe manager program that allows you to add, view, edit, and export recipes. Here are the main menu options:
+
+1. View Recipe
+Allows you to view a recipe by name. If you don't enter a name, you'll be prompted to select "Display all recipes" to view all recipes.
+
+2. Add a Recipe
+Allows you to add a new recipe. You'll be prompted to enter the name, ingredients, and steps for the recipe.
+
+3. Submit Recipes
+Allows you to export all recipes to a text file named recipes.txt.
+
+4. Display all Recipes
+Displays a list of all the recipes in your recipe book.
+
+5. Edit a Recipe
+Allows you to edit a recipe by name. You'll be prompted to enter the new ingredients and steps for the recipe.
+
+6. Quit
+Exits the program.
