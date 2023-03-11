@@ -1,0 +1,45 @@
+As a beta user, I downloaded and installed Recipe Buddy v17 Beta 2. I launched the program and was presented with a menu with six options:
+
+View Recipe
+Add a recipe
+Submit Recipes
+Display all recipes
+Edit a recipe
+Quit
+I selected option 2 to add a new recipe. I entered the name of the recipe and then was prompted to enter the ingredients and steps for the recipe. I entered the ingredients and steps and then the recipe was saved to the program.
+
+Next, I selected option 4 to display all recipes. The program showed me a list of all the recipes that had been added, including the one I just added.
+
+Finally, I selected option 6 to quit the program.
+
+Here is an example of the program being used:
+
+
+# Version 17 Beta 2
+Menu:
+1. View Recipe
+2. Add a recipe
+3. Submit Recipes
+4. Display all recipes
+5. Edit a recipe
+6. Quit
+Enter your choice: 2
+Enter the name of the recipe: Chocolate Chip Cookies
+Enter an ingredient (leave blank to stop adding): Flour
+Enter an ingredient (leave blank to stop adding): Sugar
+Enter an ingredient (leave blank to stop adding): Chocolate Chips
+Enter an ingredient (leave blank to stop adding): 
+Enter a step (leave blank to stop adding): Preheat oven to 375°F
+Enter a step (leave blank to stop adding): Mix flour, sugar, and chocolate chips together in a bowl
+Enter a step (leave blank to stop adding): Drop spoonfuls of dough onto a baking sheet
+Enter a step (leave blank to stop adding): Bake for 10-12 minutes
+Enter a step (leave blank to stop adding): 
+Menu:
+1. View Recipe
+2. Add a recipe
+3. Submit Recipes
+4. Display all recipes
+5. Edit a recipe
+6. Quit
+Enter your choice: 4
+Chocolate Chip Cookies
