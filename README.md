@@ -26,7 +26,7 @@ Exit
 To exit Recipe Buddy, select option 4 from the main menu. Recipe Buddy will save any changes made to the list of saved recipes and then exit the application.
 
 Credits
-Recipe Buddy was created by [Your Name Here].
+Recipe Buddy was created by Eric D. McCullar and ChatGpt Pro
 
 License
 Recipe Buddy is released under the MIT License.
