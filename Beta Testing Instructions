@@ -1,11 +1,26 @@
-Here are some user-friendly instructions for using Recipe Buddy:
+Beta Testing Instructions for Recipe Buddy
 
-View Recipe: Select this option to view a recipe that you have previously added to Recipe Buddy. When prompted, enter the name of the recipe you want to view. If the recipe is found, Recipe Buddy will display it for you.
+Welcome to Recipe Buddy! Thank you for beta testing our app. Please read the following instructions on how to use the app and what each option does when you select it.
 
-Add a recipe: Select this option to add a new recipe to Recipe Buddy. You will be prompted to enter the name of the recipe, as well as its ingredients and steps. Follow the prompts to add each piece of information. Once you have added a recipe, it will be saved to Recipe Buddy for future viewing.
+1. View Recipe
+   - Enter the name of the recipe to view it.
+   - If no recipe is entered, all recipes will be displayed.
 
-Submit Recipes: Select this option to export all of your saved recipes to a text file. Recipe Buddy will save your recipes to a file named "recipes.txt" in the same directory as the program.
+2. Add a recipe
+   - Enter the name of the recipe.
+   - Enter each ingredient, one at a time. Leave blank to stop adding ingredients.
+   - Enter each step, one at a time. Leave blank to stop adding steps.
 
-Display all recipes: Select this option to display a list of all the recipes you have saved in Recipe Buddy. Recipe Buddy will display the names of each recipe for you.
+3. Submit Recipes
+   - Export all recipes to a text file.
 
-Quit: Select this option to exit the program.
+4. Display all recipes
+   - Display all recipes in Recipe Buddy.
+
+5. Quit
+   - Quit Recipe Buddy.
+
+We hope you enjoy using Recipe Buddy! If you encounter any issues or have any feedback, please contact us at [contact email]. Thank you for your help in making our app better.
+
+Best regards,
+The Recipe Buddy Team
